@@ -121,3 +121,9 @@ body {
     font-style: italic;
     font-weight: normal;
 }
+
+@media screen and (max-width: 768px) {
+    .todo {
+        width: 90vw;
+    }
+}
